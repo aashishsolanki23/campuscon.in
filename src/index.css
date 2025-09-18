@@ -1,0 +1,9 @@
+:root{color-scheme:light;}
+*{box-sizing:border-box}
+html,body,#root{height:100%}
+body{margin:0;min-width:320px;min-height:100vh;background:#fff;color:#0b1220}
+
+h1,h2,h3{margin:0 0 .5rem}
+p{margin:0 0 1rem}
+
+a{color:#1a73e8}
